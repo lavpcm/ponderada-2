@@ -81,6 +81,6 @@ Habitat natural: Savana Africana
 6L) Caso fosse removida a linha super(nome, especie, idade), o código não funcionaria, pois a classe 
 AnimalSelvagem não teria acesso aos atributos da classe mãe Animal
 
-7M) Em baixo do código
+7M) Em baixo do código!
 
 ```
